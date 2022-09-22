@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React.js_Portfolio_Website/static/css/main.e8dfbe4a.css",
+    "main.js": "/React.js_Portfolio_Website/static/js/main.edde6c24.js",
+    "static/media/pjotr0.png": "/React.js_Portfolio_Website/static/media/pjotr0.c7065352d03d78d77012.png",
+    "static/media/Hadesready.jpg": "/React.js_Portfolio_Website/static/media/Hadesready.924fba43b6cab69b5d2d.jpg",
+    "static/media/portfolio2.jpg": "/React.js_Portfolio_Website/static/media/portfolio2.11be2b6e842a94ddfbbd.jpg",
+    "static/media/Portfolio.jpg": "/React.js_Portfolio_Website/static/media/Portfolio.60efa515fc733aa0e6e7.jpg",
+    "static/media/CV_Piotr_Machowski.pdf": "/React.js_Portfolio_Website/static/media/CV_Piotr_Machowski.ee156957f229442be9bd.pdf",
+    "static/media/Paintballready.jpg": "/React.js_Portfolio_Website/static/media/Paintballready.2709e44110385cfdaefb.jpg",
+    "static/media/szkolajazdy.jpg": "/React.js_Portfolio_Website/static/media/szkolajazdy.dd460aff118aab726b16.jpg",
+    "static/media/smp.png": "/React.js_Portfolio_Website/static/media/smp.1261519657d4b98a3067.png",
+    "static/media/voltonjpg.jpg": "/React.js_Portfolio_Website/static/media/voltonjpg.2c4d85407aa19df4014f.jpg",
+    "static/media/cryptonite.png": "/React.js_Portfolio_Website/static/media/cryptonite.844e391d6aa30cf066e0.png",
+    "static/media/alchemix.png": "/React.js_Portfolio_Website/static/media/alchemix.7d3f3ee782114293107e.png",
+    "static/media/Cryptologo.jpg": "/React.js_Portfolio_Website/static/media/Cryptologo.4932ad5e1a3ad168e45f.jpg",
+    "index.html": "/React.js_Portfolio_Website/index.html",
+    "main.e8dfbe4a.css.map": "/React.js_Portfolio_Website/static/css/main.e8dfbe4a.css.map",
+    "main.edde6c24.js.map": "/React.js_Portfolio_Website/static/js/main.edde6c24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8dfbe4a.css",
+    "static/js/main.edde6c24.js"
+  ]
+}
