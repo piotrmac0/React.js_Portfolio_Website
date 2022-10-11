@@ -16,7 +16,10 @@ animate.css": "^4.1.1",
 "react-scripts": "5.0.1",
 
 "swiper": "^8.1.4",
+
 "three": "^0.139.2",
+
  "vanta": "^0.5.22",
+
 
 Enjoy and build
